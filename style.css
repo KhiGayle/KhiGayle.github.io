@@ -1,13 +1,13 @@
 .navbar {
-    background-color: gray;
-    --bs-navbar-hover-color: lightblue;
+    background-color: #4831D4;
+    --bs-navbar-hover-color: whit;
 }
 
 .navbar-brand {
-    color: white;
+    color: #CCF381;
     font-family: 'Nunito', sans-serif;
     font-size: 50px;
-    --bs-navbar-brand-hover-color: lightblue;
+    --bs-navbar-brand-hover-color: white;
 }
 
 img {
@@ -54,7 +54,7 @@ yt-video {
 }
 
 footer {
-    background-color: black;
+    background-color: #AD103C;
     text-align: right;
 }
 
